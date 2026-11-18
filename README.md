@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./a_wide_professional_dark_navy_black_tech_themed.png" width="100%" />
+</p>
+
+<br>
 <h1 align="center">¡Hola! 👋 Soy John Faullon</h1>
 
 <h3 align="center">Desarrollador de Software en formación | ADSO - SENA | Colombia 🇨🇴</h3>
